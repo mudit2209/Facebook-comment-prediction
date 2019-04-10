@@ -1,2 +1,4 @@
 # Facebook-comment-prediction
-Built a regression model to predict number of comments a post on Facebook will receive in next h hours.
+Built a regression model to predict number of comments a post on Facebook will receive in next h hours
+
+In this fast growing economic world, the new power is Data. The data on social networking platforms plays a crucial role in influencing the society. Studying that Data, digging out some insights and analyzing different patterns have become very important. I have targeted Facebook pages to built insights and analyze patterns of Facebook users' activity and their behavior. Here the ultimate aim is to predict number of comments in next n hours. I have implemented linear regression to build a model that can do the same. I have also optimized the model by coding Gradient Descent algorithm from the scratch and tested for different learning rates to create the best model.
